@@ -1,2 +1,1 @@
-# repository-basic
-test basic repository functions
+학번: 2019
